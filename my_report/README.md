@@ -1,4 +1,4 @@
-# Lesson: Interaction Design
+# Lesson: Digital Games & Serious Games
 
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
