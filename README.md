@@ -5,7 +5,7 @@
 ## Initial Settings
 - Από την στιγμή που έχεις κάνει αντιγραφή (fork) το [αποθετήριο](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδιού, θα πρέπει να έχει κατέβει στο προσωπικό σου github αποθετήριο το εκτελέσιμο του παιχνιδιού [Build](https://github.com/merkourisa/Role-Playing-Game/tree/main).
 
-- Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository ![ScreenShot](1.png) και *άλλαξε το λινκ στην **About** του αποθετηρίου σου ώστε να δείχνει στην σελίδα του παιχνιδιού σου.*
+- Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository ![ScreenShot](1.png) και *άλλαξε το λινκ στο **About** του αποθετηρίου σου ώστε να δείχνει τη σελίδα του παιχνιδιού σου.*
 ![ScreenShot](2.png)
 
 **Προσοχή:** Για να βαθμολογηθεί το παιχνίδι πρέπει να βρίσκεται υποχρεωτικά στην προσωπική σας Github Page.
