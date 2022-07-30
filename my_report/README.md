@@ -1,4 +1,4 @@
-# Lesson: Digital Games & Serious Games
+# Lesson: Digital & Serious Games
 
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
