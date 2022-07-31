@@ -1,6 +1,6 @@
 # Role-Playing-Game
 
-Σκοπός της εργασίας είναι να επεκτείνεις το Ruby's Adventure --ένα 2D RPG video game--. Για τον σκοπό αυτό θα χρησιμοποιήσουμε τo [Unity](https://unity.com/). Για την εργασία θα στηριχθείς σε ένα υπάρχον παιχνίδι το Ruby's Adventure και στη συνέχεια θα πρέπει να το επεκτείνεις. Αρχικά θα πρέπει να δημιουργήσεις ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδίου και στη συνέχεια να υλοποιήσεις τα ζητούμενα όπως περιγράφονται στα ανοιχτά [issues](https://github.com/merkourisa/Role-Playing-Game/issues) της εργασίας.
+Σκοπός της εργασίας είναι να επεκτείνεις το Ruby's Adventure, ένα 2D RPG video game. Για το σκοπό αυτό θα χρησιμοποιήσεις τo [Unity](https://unity.com/). Αρχικά θα πρέπει να δημιουργήσεις ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδίου και στη συνέχεια να υλοποιήσεις τα ζητούμενα όπως περιγράφονται στα ανοιχτά [issues](https://github.com/merkourisa/Role-Playing-Game/issues) της εργασίας.
 
 ## Initial Settings
 - Από την στιγμή που έχεις κάνει αντιγραφή (fork) το [αποθετήριο](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδιού, θα πρέπει να έχει κατέβει στο προσωπικό σου github αποθετήριο το εκτελέσιμο του παιχνιδιού.
