@@ -24,7 +24,8 @@
 
 ## Resources
 
-[Tutorial](https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3)
+- [Tutorial](https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3)
+- [Game Example](https://psarrask.github.io/Pacman/)
 
 ## Απορίες
 
