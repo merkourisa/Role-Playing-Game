@@ -3,7 +3,7 @@
 ### First and Last Name: xxx
 ### University Registration Number: dpsdxxxxx
 ### GitHub Personal Profile: xxx
-### Augmented Reality Personal Repository: xxx
+### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
 
