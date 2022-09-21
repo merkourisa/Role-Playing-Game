@@ -20,7 +20,7 @@
 ## Προθεσμίες
 - [παραδοτέο 1](https://github.com/merkourisa/Role-Playing-Game/issues/1): μέχρι 25/11/2022 
 - [παραδοτέο 2](https://github.com/merkourisa/Role-Playing-Game/issues/2): μέχρι 23/12/2022
-- [παραδοτέο 3](https://github.com/merkourisa/Role-Playing-Game/issues/3): μέχρι 20/1/2023
+- [παραδοτέο 3](https://github.com/merkourisa/Role-Playing-Game/issues/3): μέχρι 13/1/2023
 
 ## Resources
 
