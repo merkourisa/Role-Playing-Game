@@ -6,17 +6,23 @@
 ### Digital & Serious Games Personal Repository: https://dpsd18139.github.io/Role-Playing-Game/
 
 # Introduction
-test uwu 
+
+TBA
+
 # Summary
+
 It's a test summary
+
+TBA
 
 # 1st Deliverable
 
 I wrote a story draft about this game's plot. 
-Then I made some concept art of my two characters. The main character, who is controlled by the player was designed in a way to appear androgynous/gender ambiguous. This way both genders will be able to put themselves in the characters shoes, without men having their fragile masculinity threatened. The other character is a mysterious young girl, at first glace appearing devoid of human emotiom and common video game logic. As the game progresses we will learn more and more about this game through this character.
+Then I made some concept art of my two characters. The main character, who is controlled by the player was designed in a way to appear androgynous/gender ambiguous. This way both genders will be able to put themselves in the characters shoes, without men having their fragile masculinity threatened. The other character is a mysterious young girl, at first glace appearing devoid of human emotion and common video game logic. As the game progresses we will learn more and more about this game through this character.
 
 Then I used this character generator to create our character sprite models in a way that would correspond to the concept art I made earlier.
 My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
+https://picrew.me/image_maker/36838
 
 After that I used a tile map I found on itch.io to create this map. My original goal was to find one that looks like a small night city but couldn't find find one that matched my vision so I used this one as a placeholder for the deliverable.
 
@@ -40,6 +46,7 @@ P.S. I hope you're able to find the small easter egg i added :)
 
 
 # Sources
-Tilemap: 
-Character Generator:
-Music:
+
+Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
+Character Generator:https://picrew.me/image_maker/36838
+Music:https://www.youtube.com/watch?v=YOxZh2OaydM
