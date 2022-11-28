@@ -16,6 +16,7 @@
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Role-Playing-Game/issues/2): μέχρι +2 μονάδες.
 - Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Role-Playing-Game/issues/3): μέχρι +2 μονάδες.
 
+Τα τρία καλύτερα παιχνίδια θα βαθμολογηθούν με +2 βαθμούς Bonus
 
 ## Προθεσμίες
 - [παραδοτέο 1](https://github.com/merkourisa/Role-Playing-Game/issues/1): μέχρι 11/11/2022 
