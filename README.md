@@ -1,33 +1,52 @@
-# Role-Playing-Game
+# Lesson: Digital & Serious Games
 
-Σκοπός της εργασίας είναι να επεκτείνεις το Ruby's Adventure, ένα 2D RPG video game. Για το σκοπό αυτό θα χρησιμοποιήσεις τo [Unity](https://unity.com/). Αρχικά θα πρέπει να δημιουργήσεις ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδίου και στη συνέχεια να υλοποιήσεις τα ζητούμενα όπως περιγράφονται στα ανοιχτά [issues](https://github.com/merkourisa/Role-Playing-Game/issues) της εργασίας.
+### First and Last Name: Paraskevi Evelina Kallergi
+### University Registration Number: dpsd18139
+### GitHub Personal Profile: https://github.com/dpsd18139
+### Digital & Serious Games Personal Repository: https://dpsd18139.github.io/Role-Playing-Game/
 
-## Initial Settings
-- Από την στιγμή που έχεις κάνει αντιγραφή (fork) το [αποθετήριο](https://github.com/merkourisa/Role-Playing-Game) του παιχνιδιού, θα πρέπει να έχει κατέβει στο προσωπικό σου github αποθετήριο το εκτελέσιμο του παιχνιδιού.
+# Introduction
 
-- Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository ![ScreenShot](1.png) και *άλλαξε το λινκ στο **About** του αποθετηρίου σου ώστε να δείχνει τη σελίδα του παιχνιδιού σου.*
-![ScreenShot](2.png)
+TBA
 
-**Προσοχή:** Για να βαθμολογηθεί το παιχνίδι πρέπει να βρίσκεται υποχρεωτικά στην προσωπική σας Github Page.
+# Summary
 
-## Βαθμολόγηση
-Λαμβάνοντας υπόψη το ποσοστό της εργασίας στον τελικό βαθμό, με άριστα το 6 τα παραδοτέα βαθμολογούνται ως εξής:
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Role-Playing-Game/issues/1): μέχρι +2 μονάδες. 
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Role-Playing-Game/issues/2): μέχρι +2 μονάδες.
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Role-Playing-Game/issues/3): μέχρι +2 μονάδες.
+It's a test summary
 
-Τα τρία καλύτερα παιχνίδια θα βαθμολογηθούν με +2 βαθμούς Bonus
+TBA
 
-## Προθεσμίες
-- [παραδοτέο 1](https://github.com/merkourisa/Role-Playing-Game/issues/1): μέχρι 11/11/2022 
-- [παραδοτέο 2](https://github.com/merkourisa/Role-Playing-Game/issues/2): μέχρι 16/12/2022
-- [παραδοτέο 3](https://github.com/merkourisa/Role-Playing-Game/issues/3): μέχρι 13/1/2023
+# 1st Deliverable
 
-## Resources
+I wrote a story draft about this game's plot. 
+Then I made some concept art of my two characters. The main character, who is controlled by the player was designed in a way to appear androgynous/gender ambiguous. This way both genders will be able to put themselves in the characters shoes, without men having their fragile masculinity threatened. The other character is a mysterious young girl, at first glace appearing devoid of human emotion and common video game logic. As the game progresses we will learn more and more about this game through this character.
 
-- [Tutorial](https://learn.unity.com/project/ruby-s-2d-rpg?uv=2020.3)
-- [Game Example](https://psarrask.github.io/Pacman/)
+Then I used this character generator to create our character sprite models in a way that would correspond to the concept art I made earlier.
+My initial plan was to make my own 2D pixel art sprites and animation, but I couldn't do it in time for this deliverable. I intend to do so for the next one.
+https://picrew.me/image_maker/36838
 
-## Απορίες
+After that I used a tile map I found on itch.io to create this map. My original goal was to find one that looks like a small night city but couldn't find find one that matched my vision so I used this one as a placeholder for the deliverable.
 
-Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Role-Playing-Game/issues), όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε απορίες συμφοιτητών σας. 
+The graveyard is a crucial part of the story, so I intend to keep it.
+
+I added a simple coloured semi transparent rectangle sprite as a filter to simulate a soft evening feel.
+
+Lastly, I used a nostalgia inducing piano song I found on YouTube as backround music. Again, I originally intended to create my own music for this project, but again, I indend to do it for the next one!
+
+I also intend to fix  the colliders.
+
+P.S. I hope you're able to find the small easter egg i added :)
+
+# 2nd Deliverable
+
+
+# 3rd Deliverable 
+
+
+# Conclusions
+
+
+# Sources
+
+Tilemap: https://cainos.itch.io/pixel-art-top-down-basic
+Character Generator:https://picrew.me/image_maker/36838
+Music:https://www.youtube.com/watch?v=YOxZh2OaydM
